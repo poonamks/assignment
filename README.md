@@ -1,2 +1,2 @@
 # assignment
-Assignments
+This repo contains assignments
